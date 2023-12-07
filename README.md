@@ -1,2 +1,2 @@
 # BachelorThesisAllFiles_cc201012
-File follection bcc_cc201012
+File collection bcc_cc201012
